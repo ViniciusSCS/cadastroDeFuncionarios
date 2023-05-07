@@ -24,7 +24,7 @@ namespace cadastroDeFuncionarios
 
         public override string ToString()
         {
-            return $"Nº{Id}, CPF: {Cpf}, Nome: {Nome}, R$ {Salario.ToString("F2", CultureInfo.InvariantCulture)}";
+            return $"Nº {Id}, CPF: {Cpf}, Nome: {Nome}, R$ {Salario.ToString("F2", CultureInfo.InvariantCulture)}";
         }
     }
 }
