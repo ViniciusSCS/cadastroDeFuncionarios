@@ -1,0 +1,15 @@
+D:\laragon\www\C-Sharp\cadastroDeFuncionarios\bin\Debug\net7.0\cadastroDeFuncionarios.exe
+D:\laragon\www\C-Sharp\cadastroDeFuncionarios\bin\Debug\net7.0\cadastroDeFuncionarios.deps.json
+D:\laragon\www\C-Sharp\cadastroDeFuncionarios\bin\Debug\net7.0\cadastroDeFuncionarios.runtimeconfig.json
+D:\laragon\www\C-Sharp\cadastroDeFuncionarios\bin\Debug\net7.0\cadastroDeFuncionarios.dll
+D:\laragon\www\C-Sharp\cadastroDeFuncionarios\bin\Debug\net7.0\cadastroDeFuncionarios.pdb
+D:\laragon\www\C-Sharp\cadastroDeFuncionarios\obj\Debug\net7.0\cadastroDeFuncionarios.csproj.AssemblyReference.cache
+D:\laragon\www\C-Sharp\cadastroDeFuncionarios\obj\Debug\net7.0\cadastroDeFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\laragon\www\C-Sharp\cadastroDeFuncionarios\obj\Debug\net7.0\cadastroDeFuncionarios.AssemblyInfoInputs.cache
+D:\laragon\www\C-Sharp\cadastroDeFuncionarios\obj\Debug\net7.0\cadastroDeFuncionarios.AssemblyInfo.cs
+D:\laragon\www\C-Sharp\cadastroDeFuncionarios\obj\Debug\net7.0\cadastroDeFuncionarios.csproj.CoreCompileInputs.cache
+D:\laragon\www\C-Sharp\cadastroDeFuncionarios\obj\Debug\net7.0\cadastroDeFuncionarios.dll
+D:\laragon\www\C-Sharp\cadastroDeFuncionarios\obj\Debug\net7.0\refint\cadastroDeFuncionarios.dll
+D:\laragon\www\C-Sharp\cadastroDeFuncionarios\obj\Debug\net7.0\cadastroDeFuncionarios.pdb
+D:\laragon\www\C-Sharp\cadastroDeFuncionarios\obj\Debug\net7.0\cadastroDeFuncionarios.genruntimeconfig.cache
+D:\laragon\www\C-Sharp\cadastroDeFuncionarios\obj\Debug\net7.0\ref\cadastroDeFuncionarios.dll
